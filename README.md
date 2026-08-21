@@ -68,6 +68,11 @@ Your report should include:
   - Power readings  
   - BER analyzer output  
   - Eye diagram  
-- Discussion of differences between analytical and simulation results.  
+- Discussion of differences between analytical and simulation results.
+- <img width="1032" height="1600" alt="image" src="https://github.com/user-attachments/assets/fa013c70-4d56-4c8b-9244-ba36fb19e3e9" />
+<img width="1918" height="1073" alt="Screenshot 2026-08-21 084046" src="https://github.com/user-attachments/assets/0d48ee40-f270-403f-9f8e-81a8ea926e5b" />
+<img width="1918" height="1078" alt="Screenshot 2026-08-21 084115" src="https://github.com/user-attachments/assets/3fba8b27-dc98-4fc7-a7ab-720dab8afaa0" />
 
+## Result
+Thus the Experiment was successfully completed and the output is verified.
 ---
